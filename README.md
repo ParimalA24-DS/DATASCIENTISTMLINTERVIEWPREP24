@@ -1,4 +1,4 @@
-# Data Science Interview Preparation
+# Data Science Interview Preparation-2024
 
 ## Overview
 Welcome to the Data Science Interview Preparation repository! This repository contains valuable resources to help you prepare for data science interviews in the year 2024.
@@ -6,7 +6,7 @@ Welcome to the Data Science Interview Preparation repository! This repository co
 ## Content
 This repository includes the following PDF documents:
 1. **Data Science Interview Questions 2024** - A comprehensive list of frequently asked questions and answers.
-2. **Data Science Algorithms and Concepts** - An in-depth look at important algorithms and concepts in data science.
+2. **MACHINE LEARNING Algorithms and Concepts** - An in-depth look at important algorithms and concepts in data science.
 3. **Interview Tips and Strategies** - Practical advice and strategies for succeeding in technical and HR interviews.
 
 ## How to Use
