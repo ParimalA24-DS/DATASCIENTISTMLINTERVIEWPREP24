@@ -12,9 +12,9 @@ This repository includes the following PDF documents:
 ## How to Use
 You can download and view each PDF document directly from this repository. The links to the PDFs are provided below:
 
-- [Data Science Interview Questions 2024](https://github.com/your-username/your-repository-name/raw/main/DataScienceInterviewQuestions2024.pdf)
-- [Data Science Algorithms and Concepts](https://github.com/your-username/your-repository-name/raw/main/DataScienceAlgorithmsAndConcepts.pdf)
-- [Interview Tips and Strategies](https://github.com/your-username/your-repository-name/raw/main/InterviewTipsAndStrategies.pdf)
+- [Data Science Interview Questions 2024](https://github.com/ParimalA24-DS/DATASCIENTISTMLINTERVIEWPREP24/blob/main/%23DAY%201%20ML_INTERVIEW%20PREP.pdf)
+- [Data Science Algorithms and Concepts]
+- [Interview Tips and Strategies]
 
 ## Author
 This repository and its contents were created by [ParimalA].
