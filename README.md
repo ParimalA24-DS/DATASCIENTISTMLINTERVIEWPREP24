@@ -1,3 +1,4 @@
+
 # Data Science Interview Preparation-2024
 
 ## Overview
@@ -11,6 +12,7 @@ This repository includes the following PDF documents:
 
 ## How to Use
 You can download and view each PDF document directly from this repository. The links to the PDFs are provided below:
+**Ifrenderin error prblemoccur directly download files**
 
 - [Data Science Interview Questions 2024](https://github.com/ParimalA24-DS/DATASCIENTISTMLINTERVIEWPREP24/blob/main/%23DAY%201%20ML_INTERVIEW%20PREP.pdf)
 - [Data Science Algorithms and Concepts]
